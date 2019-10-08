@@ -921,5 +921,19 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "A Million Little Things",
+        emojiImgs: "👫🏾🤰🏼🤱🏼🍽",
+        genres: ["comedy, drama, mystery"],
+        type: "tv",
+        year: 2018
+    },
+    {
+        title: "Widows",
+        emojiIngs: "🔫💰🚬",
+        genres: ["crime, drama, thriller"],
+        type: "movie",
+        year: 2018
     }
 ]
