@@ -935,5 +935,5 @@ const emojiItems = [
         genres: ["crime, drama, thriller"],
         type: "movie",
         year: 2018
-    }
+    },
 ]
